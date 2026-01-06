@@ -1,0 +1,40 @@
+# jupyter notebook
+.ipynb_checkpoints/
+
+# OS generated files #
+######################
+*.DS_Store
+*.DS_Store?
+.jupyter/
+
+# Weekly folders
+# 1_DA1/
+# 2_DA2/
+# 3_DA3/
+# 4_DA4/
+# 5_DA5/
+# ß6_DA6/
+
+# GradedAssignments/
+# Challenges1.ipynb
+# Challenges2.ipynb
+# AB_testReport/
+
+# Additional folders
+GradedChallengesResit/
+Solutions/
+UsefulScripts/
+Catch-up/
+
+# R/RStudio files
+.Rproj.user
+*.Rproj
+.Rhistory
+.RData
+.Ruserdata
+
+# In class content
+slides/
+inclass.ipynb
+studentfiles/
+bko/
