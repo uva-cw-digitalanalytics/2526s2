@@ -1,6 +1,6 @@
 # Graded Challenges
 
- **Status: NOT READY** 
+ **Status: READY** 
 
  This page contains the notebooks for the graded challenges. These challenges count for the Data Analysis Challenges Portfolio. For more details on how the participation grade is calculated, see Data Analysis Challenges Portfolio on Canvas.
 
