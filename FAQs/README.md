@@ -1,6 +1,6 @@
 # Solutions and Frequently Asked Questions
 
-Here you can find notebooks with the solutions, and a set of FAQs.
+Here you can find a notebook with useful functions, and a set of FAQs.
 
 The videos for the FAQs are below (and the code is in the notebook above):
 * [Creating categorical variables](https://youtu.be/xRt1MgWMGXU)
